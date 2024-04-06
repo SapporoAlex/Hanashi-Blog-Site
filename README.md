@@ -36,7 +36,6 @@ git clone https://github.com/SapporoAlex/Hanashi-Blog-Site.git
 cd hanashi-blog-site
 ```
 
-
 3. Install the required dependencies:
 
 ```bash
@@ -44,16 +43,19 @@ pip install -r requirements.txt
 ```
 
 4. Apply the migrations:
+   
 bash```
 python manage.py migrate
 ```
 
 5. Create a superuser:
+
 ```bash
 python manage.py createsuperuser
 ```
 
 6. Run the development server:
+   
 ```bash
 python manage.py runserver
 ```
