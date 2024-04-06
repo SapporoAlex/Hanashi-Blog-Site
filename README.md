@@ -1,5 +1,5 @@
 # Hanashi-Blog-Site
-![Preview Image](Preview.jpg)
+![Preview Image](preview.jpg)
 
 Welcome to my blog website! This is a personal project that allows users to register, create, read, update, and delete (CRUD) blog posts with images. It also features a search functionality to easily find blog posts.
 
