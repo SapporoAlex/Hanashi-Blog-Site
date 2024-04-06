@@ -26,20 +26,20 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository to your local machine:
 
-bash```
+```bash
 git clone https://github.com/SapporoAlex/Hanashi-Blog-Site.git
 ```
 
 2. Navigate to the project directory:
 
-bash```
+```bash
 cd hanashi-blog-site
 ```
 
 
 3. Install the required dependencies:
 
-bash```
+```bash
 pip install -r requirements.txt
 ```
 
@@ -49,12 +49,12 @@ python manage.py migrate
 ```
 
 5. Create a superuser:
-bash```
+```bash
 python manage.py createsuperuser
 ```
 
 6. Run the development server:
-bash```
+```bash
 python manage.py runserver
 ```
 
